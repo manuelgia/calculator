@@ -24,6 +24,7 @@ function App() {
   return (
     <div className="App">
       <div className='logo-contenedor'>
+      <h1>Calculadora virtual</h1>
         <img
           src={logo}
           className='logo'
