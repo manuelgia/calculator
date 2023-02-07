@@ -1,5 +1,6 @@
 # A very basic calculator created with React
 
+Try it on https://manuelgia.github.io/calculator/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
